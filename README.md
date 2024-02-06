@@ -30,8 +30,12 @@ and
 ```bash
   pip install timedelta torch transformers
 ```
+
 ## Run the python file
 
 ```bash
   python trading.py
 ```
+## Output
+
+![image](https://github.com/sanjanabharath/AI-Trading-Bot/assets/109329602/cf9808bc-f708-4fbd-bbe7-46401d41ea55)
